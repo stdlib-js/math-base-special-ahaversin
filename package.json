@@ -1,0 +1,49 @@
+{
+  "name": "@stdlib/math-base-special-ahaversin",
+  "version": "0.0.0",
+  "description": "Compute the inverse half-value versed sine.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-special-ahaversin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "ahaversin",
+    "ahaversine",
+    "arcversin",
+    "arcversine",
+    "versed sine",
+    "ahaversinus",
+    "haversine",
+    "haversin",
+    "archav",
+    "invhav",
+    "ahav",
+    "ahvs",
+    "ahv",
+    "hav",
+    "arc",
+    "versed",
+    "half-value",
+    "sine",
+    "sin",
+    "asin",
+    "trig",
+    "trigonometry",
+    "radians",
+    "angle"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
