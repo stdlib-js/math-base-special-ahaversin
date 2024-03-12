@@ -37,15 +37,20 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/math-base-napi-unary": "^0.2.1",
     "@stdlib/math-base-special-asin": "^0.2.1",
-    "@stdlib/math-base-special-sqrt": "^0.2.1"
+    "@stdlib/math-base-special-sqrt": "^0.2.1",
+    "@stdlib/utils-library-manifest": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/array-base-linspace": "^0.2.1",
     "@stdlib/constants-float64-eps": "^0.2.1",
     "@stdlib/math-base-assert-is-nan": "^0.2.1",
     "@stdlib/math-base-special-abs": "^0.2.1",
+    "@stdlib/math-base-special-ahaversin-test-fixtures-julia-data.json": "github:stdlib-js/math-base-special-ahaversin-test-fixtures-julia-data.json#main",
+    "@stdlib/math-base-special-ahaversin-test-fixtures-julia-small_positive.json": "github:stdlib-js/math-base-special-ahaversin-test-fixtures-julia-small_positive.json#main",
     "@stdlib/random-base-randu": "^0.2.1",
+    "@stdlib/utils-try-require": "^0.2.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
