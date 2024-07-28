@@ -63,6 +63,11 @@ The [inverse half-value versed sine][archaversine] is defined as
 ## Usage
 
 ```javascript
+import ahaversin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ahaversin@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-ahaversin/tags). For example,
+
+```javascript
 import ahaversin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ahaversin@v0.3.0-esm/index.mjs';
 ```
 
@@ -111,7 +116,7 @@ v = ahaversin( NaN );
 <script type="module">
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
-import ahaversin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ahaversin@v0.3.0-esm/index.mjs';
+import ahaversin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ahaversin@esm/index.mjs';
 
 var x = linspace( 0.0, 1.0, 100 );
 
