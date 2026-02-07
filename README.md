@@ -63,7 +63,7 @@ The [inverse half-value versed sine][archaversine] is defined as
 ## Usage
 
 ```javascript
-import ahaversin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ahaversin@esm/index.mjs';
+import ahaversin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ahaversin@v0.3.1-esm/index.mjs';
 ```
 
 #### ahaversin( x )
@@ -112,7 +112,7 @@ v = ahaversin( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import ahaversin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ahaversin@esm/index.mjs';
+import ahaversin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ahaversin@v0.3.1-esm/index.mjs';
 
 var x = uniform( 100, 0.0, 1.0, {
     'dtype': 'float64'
